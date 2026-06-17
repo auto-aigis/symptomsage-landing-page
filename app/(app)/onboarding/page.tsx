@@ -1,0 +1,1 @@
+// This file should not exist - onboarding is at /onboarding (outside auth group)</n// Keeping empty to prevent 404 while route is properly at /app/onboarding/page.tsx
